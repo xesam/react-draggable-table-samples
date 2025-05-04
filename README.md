@@ -13,6 +13,7 @@ This is a demo project showcasing a draggable table using React and various UI l
 - mantine
 - material-ui
 
+![screenshot](./screenshot.jpeg)
 
 ## Setup
 
