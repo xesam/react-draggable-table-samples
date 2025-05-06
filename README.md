@@ -26,4 +26,4 @@ pnpm dev
 
 ### 0.0.1
 
-create by v0, refactor by human.
+created by v0, refactored by human.
